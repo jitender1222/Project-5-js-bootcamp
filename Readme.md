@@ -6,6 +6,9 @@ I used **Position** property to complete this project also try some selectors in
 
 I took 40min to complete this Project.
 
-![](https://img.shields.io/badge/Instructor-Hitesh%20choudhary-orange)
-
 ![](./thumbnail.png)
+
+[Live-Link](https://build-together.netlify.app/)
+
+
+![](https://img.shields.io/badge/Instructor-Hitesh%20choudhary-orange)
